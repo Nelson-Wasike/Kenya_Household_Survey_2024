@@ -1,0 +1,20 @@
+col_1,Sex,col_3,col_4
+Marital status,Male Female,,Total
+Married/Living Together,88.3,11.7,8327918
+- Monogamous,,,
+Married/Living Together,69.4,30.6,492093
+- Polygamous,,,
+Separated,44.4,55.6,1071279
+Divorced,33.8,66.2,212008
+Widow or Widower,14.4,85.6,1986842
+Never married,53,47,1794193
+Total,68.3,31.7,13884333
+Married/Living Together,62.9,37.1,8327918
+- Monogamous,,,
+Married/Living Together,84.8,15.2,492093
+- Polygamous,,,
+Separated,54.1,45.9,1071279
+Divorced,57,43,212008
+Widow or Widower,80.9,19.1,1986842
+Never married,30.8,69.2,1794193
+Total,61.4,38.6,13884333

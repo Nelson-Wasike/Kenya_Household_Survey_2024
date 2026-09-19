@@ -1,0 +1,10 @@
+col_1,"""Building                     ""Building
+applications                 applications
+received""                    approved""
+2022          2023          2022          2023",col_3,col_4,col_5
+Total (Number),15436,11142,13347,12356
+Housing Only,61.4,67.9,53,57.8
+Commercial Only,15.2,16.8,13.8,13.5
+Warehousing,3,3.4,2.7,2.8
+Others,8,11.1,7.5,8.5
+Mixed Use,12.5,0.8,23,17.4

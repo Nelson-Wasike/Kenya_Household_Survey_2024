@@ -1,0 +1,2360 @@
+[
+  {
+    "title": "Table 10.1: Number of Building Plans Applications Received and Approved",
+    "sheet": "Table 10.1",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 46,
+    "counties_expected": 47,
+    "rows_parsed": 46,
+    "header_rows": [
+      [
+        "Number of Building Plans Applications received",
+        null,
+        null,
+        "Number of Building Plans Approved",
+        null,
+        "Proportion of building plans received and approved",
+        null
+      ],
+      [
+        null,
+        2022,
+        2023,
+        2022,
+        2023,
+        2022,
+        2023
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.2: Building Plans Applications Received and Approved by Building Type",
+    "sheet": "Table 10.2",
+    "status": "OK",
+    "rows_parsed": 6,
+    "kind": "national_or_reference",
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.3: Duration for Obtaining Building Approvals",
+    "sheet": "Table 10.3",
+    "county_start": 2,
+    "paired_layout": true,
+    "counties_matched": 46,
+    "counties_expected": 47,
+    "rows_parsed": 46,
+    "header_rows": [
+      [
+        null,
+        "Number of days",
+        null,
+        null,
+        "Number of days",
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.4: Number of Applications Received for Change of User by County",
+    "sheet": "Table 10.4",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 46,
+    "counties_expected": 47,
+    "rows_parsed": 46,
+    "header_rows": [
+      [
+        null,
+        2019,
+        null,
+        2020,
+        null,
+        2021,
+        null,
+        2022,
+        null,
+        2023,
+        null
+      ],
+      [
+        null,
+        "\nResidential      Other to other       uses ",
+        " Other uses to residential",
+        "\nResidential      Other to other       uses ",
+        " Other uses to residential",
+        "\nResidential      Other to other       uses ",
+        " Other uses to residential",
+        "\nResidential      Other to other       uses ",
+        " Other uses to residential",
+        "\nResidential      Other to other       uses ",
+        " Other uses to residential"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.5: Number of Completion Certificate Applications Received and Issued, by Type of Building",
+    "sheet": "Table 10.5",
+    "status": "OK",
+    "rows_parsed": 14,
+    "kind": "national_or_reference",
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.6:  Completion Certificate Applications Received and Issued, by County",
+    "sheet": "Table 10.6",
+    "county_start": 3,
+    "paired_layout": true,
+    "counties_matched": 46,
+    "counties_expected": 47,
+    "rows_parsed": 46,
+    "header_rows": [
+      [
+        null,
+        "Number of completion   certificate applications received issued            ",
+        null,
+        "Number of completion   certificate issued            ",
+        null,
+        null,
+        null,
+        "Number of completion   certificate applications received issued            ",
+        null,
+        "Number of completion   certificate issued            ",
+        null,
+        null
+      ],
+      [
+        null,
+        2022,
+        2023,
+        2022,
+        2023,
+        null,
+        null,
+        2022,
+        2023,
+        2022,
+        2023,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.7: Proportion of Counties with Informal Settlements/Slums, and their Number by Type of Jurisdiction Area",
+    "sheet": "Table 10.7",
+    "status": "OK",
+    "rows_parsed": 5,
+    "kind": "national_or_reference",
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.8: Number of Local Physical and Land Use Development plans by jurisdiction area",
+    "sheet": "Table 10.8",
+    "status": "OK",
+    "rows_parsed": 4,
+    "kind": "national_or_reference",
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.9: Number of Local Physical and Land Use Development Plans by Jurisdiction Area and County",
+    "sheet": "Table 10.9",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 46,
+    "counties_expected": 47,
+    "rows_parsed": 46,
+    "header_rows": [
+      [
+        null,
+        "Town",
+        null,
+        "Municipality",
+        null,
+        "City",
+        null
+      ],
+      [
+        null,
+        "Total number of local physical and land use development\nplans",
+        "Number of approved local physical and land use development\nplans",
+        "Total number of local physical and land use development\nplans",
+        "Number of approved local physical and land use development\nplans",
+        "Total number of local physical and land use development\nplans",
+        "Number of approved local physical and land use development\nplans"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.10: Measures Taken by County Governments to Control Development in Areas Planned for Residential Housing Development",
+    "sheet": "Table 10.10",
+    "status": "OK",
+    "rows_parsed": 14,
+    "kind": "national_or_reference",
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.11: Number of Applications for Water Connections Received in 2022 and 2023 by County and Type of Building",
+    "sheet": "Table 10.11",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 44,
+    "counties_expected": 47,
+    "rows_parsed": 44,
+    "header_rows": [
+      [
+        null,
+        "Number of applications received for Water connection",
+        null,
+        "Number of applications received for Water connection for residential buildings",
+        null,
+        "Number of applications received for Water connection for mixed use buidings",
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.12: Number of Applications Received for Sewer Connection and Proportion of Sewer Coverage by county",
+    "sheet": "Table 10.12",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 44,
+    "counties_expected": 47,
+    "rows_parsed": 44,
+    "header_rows": [
+      [
+        null,
+        "Number of applications received for sewer connection\n",
+        "Number of applications received for sewer connection\n",
+        "Number of applications received for sewer connection for residenti building\n",
+        "Number of applications received for sewer connection for mixed use\nbuildings\n2023",
+        "Percentage of sewer coverage\n2022",
+        "Percentage of sewer coverage\n2023",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        2022,
+        2023,
+        2022,
+        2023,
+        2022,
+        2023,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.13: Time Taken and Cost for Residential Water and Sewer connection",
+    "sheet": "Table 10.13",
+    "county_start": 2,
+    "paired_layout": false,
+    "counties_matched": 44,
+    "counties_expected": 47,
+    "rows_parsed": 44,
+    "header_rows": [
+      [
+        "Time taken to get water connection (Days)",
+        null,
+        "Time taken to get sewer connection (Days)",
+        "\"Cost for water connection\n(KSh)\"",
+        "\"Cost for  sewer connection\n(KSh)\""
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.14: Volume of Water Supplied to Residential Areas in 2022 and 2023, Cubic Meters",
+    "sheet": "Table 10.14",
+    "county_start": 2,
+    "paired_layout": false,
+    "counties_matched": 23,
+    "counties_expected": 47,
+    "rows_parsed": 23,
+    "header_rows": [
+      [
+        null,
+        "2022                           2023",
+        null
+      ]
+    ],
+    "status": "LOW_COUNTY_MATCH",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.15: Number and Proportion of Licensing Applications for Housing Development Projects Received and\nLicensed by NEMA in 2022 and 2023",
+    "sheet": "Table 10.15",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Number of license applications for housing development received",
+        null,
+        "Number of license applications for housing development licenced",
+        null,
+        "Proportion of applications for housing development licenced",
+        null
+      ],
+      [
+        "Number of license applications for        Number of applications for housing      Proportion of applications for housing housing development received                     development licensed                           development licensed\nCounty                                            2022                      2023                      2022                      2023                      2022                      2023",
+        2022,
+        2023,
+        2022,
+        2023,
+        2022,
+        2023
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.16: Average Time Taken to Process and License Housing Development Projects from NEMA",
+    "sheet": "Table 10.16",
+    "county_start": 2,
+    "paired_layout": false,
+    "counties_matched": 23,
+    "counties_expected": 47,
+    "rows_parsed": 23,
+    "header_rows": [
+      [
+        "Number of days",
+        null
+      ]
+    ],
+    "status": "LOW_COUNTY_MATCH",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 10.17: Number and Proportion of Applications for Land Transfer Received and Processed in 2023",
+    "sheet": "Table 10.17",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 22,
+    "counties_expected": 47,
+    "rows_parsed": 22,
+    "header_rows": [
+      [
+        null,
+        "Number of applications received for land transfer\nin 2023",
+        "Number of applications\nfor land transfer processed in\n2023",
+        "Proportion of applications\nfor land transfer received and processed in\n2023"
+      ]
+    ],
+    "status": "LOW_COUNTY_MATCH",
+    "category_cols_detected": 0,
+    "file": "Chapter-10-Institutional-and-Regulatory-Framework.xlsx"
+  },
+  {
+    "title": "Table 11.1: Likelihood to involuntarily lose ownership or use rights",
+    "sheet": "Table 11.1",
+    "status": "OK",
+    "rows_parsed": 6,
+    "kind": "national_or_reference",
+    "file": "Chapter-11-Land-Use-and-Security-of-Tenure.xlsx"
+  },
+  {
+    "title": "Table 11.2. Reasons for the Likelihood of Involuntarily Losing Ownership or Use Rights",
+    "sheet": "Table11.2",
+    "status": "OK",
+    "rows_parsed": 11,
+    "kind": "national_or_reference",
+    "file": "Chapter-11-Land-Use-and-Security-of-Tenure.xlsx"
+  },
+  {
+    "title": "Table 12.1: Land Consumption Rate, 2016-2023",
+    "sheet": "Table 12.1",
+    "status": "OK",
+    "rows_parsed": 5,
+    "kind": "national_or_reference",
+    "file": "Chapter-12-Land-Consumption-Rate-and-Green-Space.xlsx"
+  },
+  {
+    "title": "Table 12.2: Area occupied by green space, 2016-2023 ",
+    "sheet": "Table 12.2",
+    "status": "OK",
+    "rows_parsed": 4,
+    "kind": "national_or_reference",
+    "file": "Chapter-12-Land-Consumption-Rate-and-Green-Space.xlsx"
+  },
+  {
+    "title": "Table 1: Distribution of clusters and households by County",
+    "sheet": "Table 2.1",
+    "county_start": 4,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-2-Methodology.xlsx"
+  },
+  {
+    "title": "Table 2.2: Household Response Rate by Residence ",
+    "sheet": "Table 2.2",
+    "status": "OK",
+    "rows_parsed": 3,
+    "kind": "national_or_reference",
+    "file": "Chapter-2-Methodology.xlsx"
+  },
+  {
+    "title": "Table 2.3: Household Response Rate by County ",
+    "sheet": "Table 2.3",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 46,
+    "counties_expected": 47,
+    "rows_parsed": 46,
+    "header_rows": [],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-2-Methodology.xlsx"
+  },
+  {
+    "title": "Table 3.1: Population Distribution by Age Group and Sex",
+    "sheet": "Table 3.1",
+    "status": "OK",
+    "rows_parsed": 15,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.2: Population Distribution by Residence, County and Sex, 2024",
+    "sheet": "Table 3.2",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Male",
+        null,
+        "Female",
+        "Total"
+      ],
+      [
+        "%",
+        null,
+        "%",
+        "No."
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.3: Marital Status of Household Heads aged 15 years and above by Sex and Residency",
+    "sheet": "Table 3.3",
+    "status": "OK",
+    "rows_parsed": 19,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.4: Dependency Ratios by Type and Residence",
+    "sheet": "Table 3.4",
+    "status": "OK",
+    "rows_parsed": 3,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.5: Percentage Distribution of Households by County and Residence",
+    "sheet": "Table 3.5",
+    "county_start": 5,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.6: Distribution of Households by Tenureship Status, County and Residence",
+    "sheet": "Table 3.6",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No Rent with",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Owns ",
+        null,
+        null,
+        "Pays Rent/Lease ",
+        null,
+        null,
+        "No Rent  with Consent of Owner",
+        null,
+        null,
+        "No Rent, Squatting ",
+        null,
+        null,
+        "Total",
+        null,
+        null
+      ],
+      [
+        null,
+        "Total ",
+        "Rural",
+        "Urban",
+        "Total",
+        "Rural",
+        "Urban",
+        "Total",
+        "Rural ",
+        "Urban",
+        "Total",
+        "Rural",
+        "Urban",
+        "N",
+        "Rural",
+        "Urban"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.7: Percentage Distribution of Household Sizes by Residence and Counties.",
+    "sheet": "Table 3.7",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence",
+        null,
+        null,
+        "HouseHold Size",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "1-2 persons",
+        "3-4 persons",
+        "5-6 persons 7-8 persons",
+        null,
+        "9-10 persons",
+        "11+ persons"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.8: Proportions of Household Size by Tenureship Status",
+    "sheet": "Table 3.8",
+    "status": "OK",
+    "rows_parsed": 7,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.9a: Summary of Key Labour Market Indicators",
+    "sheet": "Table 3.9a",
+    "status": "OK",
+    "rows_parsed": 11,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.9b: Distribution of Population 15-64 Years by Activity Status, Residence, Sex, and Age",
+    "sheet": "Table 3.9b",
+    "status": "OK",
+    "rows_parsed": 60,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.10: Percentage Distribution of Households by Activity Status of Heads and Type of Dwelling Structure",
+    "sheet": "Table 3.10",
+    "status": "OK",
+    "rows_parsed": 16,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.11: Distribution of the Population Aged 5 years and Above by Disability Status, Sex and Age",
+    "sheet": "Table 3.11",
+    "status": "OK",
+    "rows_parsed": 21,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.12: Rating of Housing Unit Safety by Households with People with Disabilities",
+    "sheet": "Table 3.12",
+    "status": "OK",
+    "rows_parsed": 7,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.13: Percentage Distribution of Factors Leading to Inadequacy of Housing Units by Disability Status",
+    "sheet": "Table 3.13",
+    "status": "OK",
+    "rows_parsed": 13,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.14: Distribution of Housing Units with Various Accessibility Aids, by Ownership Status",
+    "sheet": "Table 3.14",
+    "status": "OK",
+    "rows_parsed": 9,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.15: Proportion of Individuals Aged 3 Years and Above who Owned a Mobile Phone",
+    "sheet": "Table 3.15",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Male Female Total",
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.16: Proportion of Individuals Aged 3 Years and Above who Use a Mobile Phone Without Owning",
+    "sheet": "Table 3.16",
+    "county_start": 5,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Male",
+        "Female",
+        "Total"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.17: Proportion of Individuals Aged 3 Years and Above who Use a Mobile Phone",
+    "sheet": "Table 3.17",
+    "status": "OK",
+    "rows_parsed": 3,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.18: Proportion of Individuals Aged 3 Years and Above who Used Internet",
+    "sheet": "Table 3.18",
+    "county_start": 6,
+    "paired_layout": true,
+    "counties_matched": 43,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Male          Female            Total",
+        null,
+        null,
+        null,
+        "Male",
+        null,
+        "Female",
+        "Total"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.19: Proportion of Individuals Aged 3 Years and Above who Used a Computer",
+    "sheet": "Table 3.19",
+    "county_start": 6,
+    "paired_layout": true,
+    "counties_matched": 43,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Male            Female              Total",
+        "Female",
+        "Total",
+        null,
+        null,
+        "Male            Female              Total",
+        "Female",
+        "Total"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.20: Proportion of Households with Smart Technologies by Type",
+    "sheet": "Table 3.20",
+    "status": "OK",
+    "rows_parsed": 9,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 3.21: Proportion of Households with Smart Technologies by Type of Dwelling Structure",
+    "sheet": "Table 3.21",
+    "status": "OK",
+    "rows_parsed": 9,
+    "kind": "national_or_reference",
+    "file": "Chapter-3-Household-Demographic-and-Economic-Characteristics.xlsx"
+  },
+  {
+    "title": "Table 4.1: Average Rent by County, Dwelling Type and Number of Bedrooms, Urban",
+    "sheet": "Table 4.1",
+    "county_start": 2,
+    "paired_layout": false,
+    "counties_matched": 45,
+    "counties_expected": 47,
+    "rows_parsed": 387,
+    "header_rows": [],
+    "status": "OK",
+    "category_cols_detected": 1,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.2: Proportion of Rent to Household Expenditure, 2024",
+    "sheet": "Table 4.2",
+    "county_start": 4,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Residence",
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.3: Rent Collection Entities by County",
+    "sheet": "Table 4.3",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "County                                           Government",
+        null,
+        "Private Company",
+        "Individual directly",
+        "Individual through Agent",
+        "Faith Based Organization"
+      ],
+      [
+        "%",
+        null,
+        "%",
+        "%",
+        "%",
+        "%"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.4: Proportion of Tenants with Written Rent Agreements by County",
+    "sheet": "Table 4.4",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Per Cent"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.5: Dwelling Units Tenants Prefer to Build/Buy",
+    "sheet": "Table 4.5",
+    "status": "OK",
+    "rows_parsed": 10,
+    "kind": "national_or_reference",
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.6: Number of Bedrooms Tenants Prefer to Build/ Buy",
+    "sheet": "Table 4.6",
+    "status": "OK",
+    "rows_parsed": 6,
+    "kind": "national_or_reference",
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.7: Dwelling Unit Tenants Prefer to Rent",
+    "sheet": "Table 4.7",
+    "status": "OK",
+    "rows_parsed": 8,
+    "kind": "national_or_reference",
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.8: Number of Bedrooms Tenants Prefer to Rent",
+    "sheet": "Table 4.8",
+    "status": "OK",
+    "rows_parsed": 9,
+    "kind": "national_or_reference",
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.9: Counties of Preference for Tenants Seeking Home Ownership",
+    "sheet": "Table 4.9",
+    "county_start": 2,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.10: Proportion of Tenants with Rent Disputes and Awareness of the Rent Restriction Tribunal by County",
+    "sheet": "Table 4.10",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.11: Modes of Home Acquisition by County",
+    "sheet": "Table 4.11",
+    "county_start": 5,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Purchased",
+        null,
+        "Constructed\nOne-Off",
+        "Constructed Incremental",
+        "Inherited",
+        "Gift",
+        "Bartered",
+        "From the Govern- ment",
+        "squatting",
+        "Total"
+      ],
+      [
+        "%",
+        null,
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.12: Modes of Financing Homes Acquisition by County",
+    "sheet": "Table 4.12",
+    "county_start": 5,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Cash  / Savings",
+        null,
+        "Loan",
+        "Mortgage",
+        "Donation from relatives/friends/NGO",
+        "No cost                  Total",
+        null
+      ],
+      [
+        "%",
+        null,
+        "%",
+        "%",
+        "%",
+        "%",
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.13: Sources of Financing of Homes by Owners by County, 2024",
+    "sheet": "Table 4.13",
+    "county_start": 5,
+    "paired_layout": false,
+    "counties_matched": 44,
+    "counties_expected": 47,
+    "rows_parsed": 44,
+    "header_rows": [
+      [
+        "Source of Finance\nCo-                                       Housing             Micro                                Self          Family/\noperative/       Commercial          Finance            Finance        Employer         Help           Friends                 Other SACCOs              Banks            Institution        Institution        scheme        Group/       within the\nChama         country",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.14: Duration of Construction by County",
+    "sheet": "Table 4.14",
+    "county_start": 5,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Cash / Savings",
+        "Loan",
+        "Mortgage",
+        "Donation from relatives/ friends/ NGO",
+        "No cost  ",
+        " Total"
+      ],
+      [
+        null,
+        "%",
+        "%",
+        "%",
+        "%",
+        "%",
+        "%"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.15: Use of Built Environment Professionals in Construction",
+    "sheet": "Table 4.15",
+    "status": "OK",
+    "rows_parsed": 15,
+    "kind": "national_or_reference",
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.16: Reasons for Not Utilizing Services of BEP",
+    "sheet": "Table 4.16",
+    "status": "OK",
+    "rows_parsed": 14,
+    "kind": "national_or_reference",
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 4.17: Location of Additional Homes Homeowners Own Elsewhere by County",
+    "sheet": "Table 4.17",
+    "county_start": 2,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-4-Home-Ownership-and-Tenancy.xlsx"
+  },
+  {
+    "title": "Table 5.1: Type of the Main Construction Materials for the Roof, Wall, and Floor Based of Durability",
+    "sheet": "Table 5.1",
+    "status": "OK",
+    "rows_parsed": 4,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.2: Percentage Distribution of Dwelling Units by Type of Floor Material, Residence and County",
+    "sheet": "Table 5.2",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Non-Durable",
+        null,
+        null,
+        null,
+        null,
+        "Durable",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Earth/sand",
+        "Dung",
+        "Wood planks/shingles/ timber",
+        "Palm/ bamboo",
+        "Sub Total",
+        "Parquet or polished wood",
+        "Vinyl or asphalt strips",
+        "Ceramic tiles",
+        "Concrete/ Cement/ Terrazo",
+        "Wall to wall Carpet",
+        "Sub Total",
+        "Other"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.3: Percentage Distribution of Dwelling Units by Type of Wall Material, Residence and County",
+    "sheet": "Table 5.3",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 46,
+    "counties_expected": 47,
+    "rows_parsed": 46,
+    "header_rows": [
+      [
+        null,
+        "Non-Durable",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Durable",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "No walls",
+        null,
+        "Cane/ palm/ trunks",
+        "Grass/ reeds",
+        "Mud/ cow dung",
+        "Bamboo    Stone with          with\nmud          mud",
+        null,
+        "Uncov- ered adobe",
+        "Ply- wood/ Card- board",
+        "Re- used wood",
+        "Cov- ered adobe",
+        "Wood planks/ shin- gles/ timber",
+        "Iron sheets",
+        "Con- crete/ Cement",
+        "Stone with lime/ cement",
+        "Bricks",
+        "Cement blocks",
+        "Precast Wall",
+        "Other"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.4: Percentage Distribution of Dwelling Units by Type of roof Material by Residence and County",
+    "sheet": "Table 5.4",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Grass / Ma- kuti thatch/ twigs",
+        "Non Durable\nDung /       Tin cans mud",
+        null,
+        "Sub total",
+        "Iron sheets/ Decra/Ver- satile",
+        "Asbestos sheet",
+        "Durable\nConcrete/ Cement",
+        "Tiles",
+        "Canvas/ Nylon/ Cartons/ Cardboard",
+        "Sub total",
+        "Other"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.5: Distribution of Households by Average Area Per Person and HH Size",
+    "sheet": "Table 5.5",
+    "status": "OK",
+    "rows_parsed": 7,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.6 Categorization of the Main Type of Cooking Fuel",
+    "sheet": "Table 5.6",
+    "status": "OK",
+    "rows_parsed": 2,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.7: Percentage Distribution of Households by Main Source of Cooking Fuel, Residence and County",
+    "sheet": "Table 5.7",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Clean                                                                                                            Unclean",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Electricity connec- tion from main grid (KPLC)",
+        "Electricity connec- tion\nfrom a mini grid (private)",
+        "Electricity connec- tion from generator",
+        "Electricity connec- tion from a solar system/ panels",
+        "Bio- gas",
+        "LPG\n(gas)",
+        "Ethanol",
+        "Sub-     Firewood\nTotal     and products of wood",
+        null,
+        "Pro- cessed biomass (pel- lets) or wood- chips",
+        "Char- coal",
+        "Agri- cultural crop residue",
+        "Animal dung/ waste",
+        "Not Appli- cable",
+        "Paraf-       SubTo-\nfin/Ker-    tal osene",
+        null,
+        "Other\nNumber of Households",
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.8: Percentage Distribution of Households by Primary type of Cooking Appliance, Residence and County",
+    "sheet": "Table 5.8",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Electric/ LPG/Bio- gas Cooker",
+        null,
+        "Electric pressure Cooker",
+        "Air fryer",
+        "Jiko Koko (Ethanol)",
+        "Subtotal    Kero-\nsene Stove",
+        null,
+        "Ordinary Charcoal Jiko",
+        "Improved Charcoal Jiko",
+        "Improved Firewood Jiko",
+        "Moveable Firepan",
+        "Three stone stove/open fire",
+        "Other",
+        "Subtotal"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.9 Categorization of the Main Type of Lighting Fuel",
+    "sheet": "Table 5.9",
+    "status": "OK",
+    "rows_parsed": 2,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.10: Percentage Distribution of Households by Main Source of Lighting and Residence/ County ",
+    "sheet": "Table 5.10",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Clean",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Unclean",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Elec- tricity connec- tion from main grid (KPLC)",
+        "Electric- ity con- nection from\na mini grid (private)",
+        "Elec- tricity con- nection from genera- tor",
+        "Electricity connec- tion from a solar system/ panels",
+        "Solar Charged Battery/ Torch/ Spot- light/ lamp",
+        "Elec- tricity con- nec- tion from wind",
+        "Bio- gas",
+        "Subto- tal",
+        "Kero- sene or Paraffin",
+        "Char- coal",
+        "Wood",
+        "Candle",
+        "None",
+        "Other",
+        "Sub- total",
+        "Number of household"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.11: Percentage Distribution of Households Connected to Electricity on the Main Grid by Residence and County",
+    "sheet": "Table 5.11",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.12: Percentage Distribution of Households Connected to Electricity on the Main Grid by Type of\nDwelling Unit",
+    "sheet": "Table 5.12",
+    "status": "OK",
+    "rows_parsed": 8,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.13: Categories of Main Sources of Water",
+    "sheet": "Table 5.13",
+    "status": "OK",
+    "rows_parsed": 2,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.14: Percentage Distribution of Households by Access to Main Source of Drinking Water",
+    "sheet": "Table 5.14",
+    "county_start": 8,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Number of Households",
+        "Improved",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Unimproved",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Public Water Compa- nies",
+        "Private Water Compa- nies",
+        "Tube Well/ Borehole (Owned)",
+        "Tube Well/ Borehole (Commu- nity)",
+        "Dug Well (Pro- tected)",
+        "Water from Spring (Protect- ed)",
+        "Rain/ Harvest- ed Water",
+        "Pack- aged Bottled Water",
+        "Sub- to- tal",
+        "Water from- Spring (Unpro- tected)",
+        "Dug Well (Un-\npro- tected)",
+        "Surface Water (River/ Dam/Lake/ Pond/ Stream/Ca- nal/Irrigation Channel)",
+        "Sub- total",
+        "Other"
+      ],
+      [
+        "Residence",
+        null,
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "percent",
+        "per- cent",
+        "percent"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.15: Percentage Distribution of Households by Access to Main Source of Water for Other Uses",
+    "sheet": "Table 5.15",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Number of Households",
+        "Improved",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Unimproved",
+        null,
+        null,
+        null,
+        "Others",
+        "Don't"
+      ],
+      [
+        null,
+        null,
+        "Public Water Compa- nies",
+        "Private Water Compa- nies",
+        "Tube Well/ Borehole (Owned)",
+        "Tube Well/ Borehole (Com- munity)",
+        "Dug Well (Pro- tected)",
+        "Water from Spring (Pro- tected)",
+        "Rain/ Har- vested Water",
+        "Pack- aged Bottled Water",
+        "Sub- total",
+        "Water from- Spring (Unpro- tected)",
+        "Dug Well (Un-\npro- tected)",
+        "Surface Water (River/ Dam/Lake/ Pond/ Stream/Ca- nal/Irrigation Channel)",
+        "Sub- total",
+        null,
+        "Know/\nUnsure"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.16: Distribution of Persons Fetching Drinking Water by Residence, Counties, and Sex",
+    "sheet": "Table 5.16",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence",
+        "Male                              Female\nNumber      Percent         Number     Percent",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.17: Distribution of Persons Fetching Water for Other Uses by Residence, Counties and Sex",
+    "sheet": "Table 5.17",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Sex\nResidence                     Male                              Female Number      Percent         Number     Percent",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.18: Proportion of Households with Piped Water by County",
+    "sheet": "Table 5.18",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Without Piped Water",
+        null,
+        "With Piped Water",
+        "Number of Households"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.19: Drinking Water Service Ladder by Residence and County",
+    "sheet": "Table 5.19",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "At least Basic Service",
+        null,
+        "Limited Service",
+        "Unimproved",
+        "Surface Water",
+        "Number of Persons"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.20 Categories of Main Modes of Human Waste Disposal",
+    "sheet": "Table 5.20",
+    "status": "OK",
+    "rows_parsed": 2,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.21: Percentage Distribution of Households by Category of Toilet Facility",
+    "sheet": "Table 5.21",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Improved                                                                                                                   Unimproved",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Flush to Piped Sew- er System",
+        "Flush to Septic tank",
+        "Flush to PitLa- trine",
+        "Flush to Cess pool",
+        "Flush to Don't know where",
+        "Ventilated Improved Pit (VIP) Pit Latrine",
+        "Pit latrine with slab",
+        "Com- post- ing toilet",
+        "Biodi- gester",
+        "SubTo- tal",
+        "Pit Latrine without slab/ Open pit",
+        "Bucket Toilet",
+        "Hanging toilet/ Hanging latrine",
+        "No facility/ Bush/Field",
+        "Sub Total",
+        "Others"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.22: Proportion of Households Sharing Toilet Facilities by Residence and County",
+    "sheet": "Table 5.22",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Not sharing            Sharing",
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.23: Percentage Distribution of Households with a Handwashing Facility",
+    "sheet": "Table 5.23",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Total",
+        "Yes, Soap/ detergent and Water",
+        "Yes, Soap/ detergent Only",
+        "Yes, Water Only",
+        "No",
+        "Others"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.24: Scorecard for Dwelling Fitness",
+    "sheet": "Table 5.24",
+    "status": "OK",
+    "rows_parsed": 10,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.25: Distribution of Persons per Habitable Room by Residence and County (Fit and Unfit)",
+    "sheet": "Table 5.25",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Fit",
+        " Unfit"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.26: Structure Fitness by Residence and County",
+    "sheet": "Table 5.26",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "County/Residence ",
+        "Fit ",
+        "Unfit"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.27: Energy Use Fitness by County",
+    "sheet": "Table 5.27",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Clean",
+        " Unclean/ smoky"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.28: Water and Sanitation Fitness by County",
+    "sheet": "Table 5.28",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Improved",
+        " Unimproved"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.29: Consolidated Housing Quality Index by Residence and County",
+    "sheet": "Table 5.29",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "Dwelling fit",
+        " Dwelling unfit"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.30: Average Distance from Dwelling Units to Social Amenities (kms)",
+    "sheet": "Table 5.30",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence/ County",
+        "Primary School",
+        "Secondary School",
+        "Police Station",
+        "Health Facility",
+        "Bus Stop",
+        "Shopping Centre",
+        "Worship Centre",
+        "Recreation Centre",
+        "Market Place",
+        "Social Hall",
+        "Pick up Drop off",
+        "All Weather Season road"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.31: Percentage Distribution of Households byType of Access Road Leading to Dwelling Units by Residence",
+    "sheet": "Table 5.31",
+    "status": "OK",
+    "rows_parsed": 3,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.32: Percentage Distribution of Households by Street Lighting/High Mask Lighting for Access Road to Dwelling Units by Residence",
+    "sheet": "Table 5.32",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence",
+        "Availability of Street Lighting/High Mast Lighting",
+        "Total"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.33: Percentage Distribution of Households by Utilities Provided by the Government by Residence",
+    "sheet": "Table 5.33",
+    "status": "OK",
+    "rows_parsed": 10,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.34: Percentage Distribution of Households by Functionality of Utilities Provided by the Government",
+    "sheet": "Table 5.34",
+    "status": "OK",
+    "rows_parsed": 10,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.35: Proportion of Dwelling Units by Land Terrain",
+    "sheet": "Table 5.35",
+    "county_start": 3,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.36: Proximity of Dwellings to Potential Hazards in Metres",
+    "sheet": "Table 5.36",
+    "county_start": 7,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence          River/Lake    Swamp     Wetland      Quarry     Dumpsite      Factory/       Forest      Bars and      Worship     Airport    Busy Road\nIndustry                    Night Clubs    centres",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.37: Percentage of Households in Areas Prone to Flooding & Mudslides by Residence",
+    "sheet": "Table 5.37",
+    "status": "OK",
+    "rows_parsed": 3,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.38: Percentage Distribution of Households by Primary Method of Waste Disposal by Residence",
+    "sheet": "Table 5.38",
+    "status": "OK",
+    "rows_parsed": 3,
+    "kind": "national_or_reference",
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 5.39: Percentage Distribution of Households by Frequency of Waste Collection by County",
+    "sheet": "Table 5.39",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 46,
+    "counties_expected": 47,
+    "rows_parsed": 46,
+    "header_rows": [
+      [
+        null,
+        "Daily",
+        "Twice a week",
+        "Weekly",
+        "Monthly"
+      ],
+      [
+        "Kemya",
+        3.6,
+        19.2,
+        73.3,
+        3.8
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-5-Housing-Characteristics-Amenities-and-Adequacy.xlsx"
+  },
+  {
+    "title": "Table 6.1: Proportion of Individuals Aged 18 years and Above who Reported they were Comfortable with their Current Residence",
+    "sheet": "Table 6.1",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No",
+        "Yes",
+        "Not Stated",
+        "Total"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.2: Proportion of Persons Aged 18 years and Above who Felt Secure in their Neighbourhood at Night",
+    "sheet": "Table 6.2",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No",
+        "Yes",
+        "Not Stated ",
+        "Total"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.3: Proportion of Persons aged 18 years and Above who have been Victims of Crime within their Locality in the 12 months Preceding the survey",
+    "sheet": "Table 6.3",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No",
+        "Yes",
+        "Not Stated",
+        "Respondent Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.4: Proportion of Persons Aged 18 years and Above who were aware of the Rules and Regulations in the Building Sector",
+    "sheet": "Table 6.4",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No",
+        "Yes",
+        "Not Stated",
+        "Respondent Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.5: Proportion of Persons Aged 18 years and Above who are Aware of the Minimum Housing Requirement",
+    "sheet": "Table 6.5",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No",
+        "Yes",
+        "Not Stated",
+        "Respondent Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.6: Proportion of Persons Aged 18 years and Above who Consider the Minimum Housing Requirement Useful",
+    "sheet": "Table 6.6",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence/ County",
+        "No",
+        "Yes",
+        "Respondent Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.7 Proportion of Adult Population who think that Government/Public Agencies Should Regulate Rent",
+    "sheet": "Table 6.7",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "No Yes Respondent Count",
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.8: Percentage distribution on the opinion that government/public agencies should regulate interest rates on housing loans and mortgages",
+    "sheet": "Table 6.8",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No",
+        "Yes",
+        "Not Stated",
+        "Respondent Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.9: Percentage of Adult Population Aware of Affordable Housing Program",
+    "sheet": "Table 6.9",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No",
+        "Yes",
+        "Not Stated",
+        "Respondent Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.10: Percentage of Adult Population Aware of Stamp Duty Exemption",
+    "sheet": "Table 6.10",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence/County",
+        "No",
+        "Yes",
+        "Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.11: Proportion of Adult Population who are Aware about Stamp Duty and Exemption and have Benefitted from it",
+    "sheet": "Table 6.11",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence/County",
+        "No",
+        "Yes",
+        "Respondent Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.12: Percentage of Adult Population Aware of Affordable Housing Relief",
+    "sheet": "Table 6.12",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        "Residence/County",
+        "No",
+        "Yes",
+        "Respondent Count",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 6.13: Percentage of Population Aware of Tax Deductibility paid on Housing Loans",
+    "sheet": "Table 6.13",
+    "county_start": 6,
+    "paired_layout": false,
+    "counties_matched": 47,
+    "counties_expected": 47,
+    "rows_parsed": 47,
+    "header_rows": [
+      [
+        null,
+        "No",
+        "Yes",
+        "Respondent Count"
+      ]
+    ],
+    "status": "OK",
+    "category_cols_detected": 0,
+    "file": "Chapter-6-Housing-Awareness-and-Perceptions.xlsx"
+  },
+  {
+    "title": "Table 8.1: Average Sale Prices of Residential Properties",
+    "sheet": "Table 8.1",
+    "status": "OK",
+    "rows_parsed": 16,
+    "kind": "national_or_reference",
+    "file": "Chapter-8-Housing-Development-and-Property-Prices.xlsx"
+  },
+  {
+    "title": "Table 8.2: Average sale Prices of Residential Properties by Region (KSh)",
+    "sheet": "Table 8.2",
+    "status": "OK",
+    "rows_parsed": 16,
+    "kind": "national_or_reference",
+    "file": "Chapter-8-Housing-Development-and-Property-Prices.xlsx"
+  },
+  {
+    "title": "Table 9.1: Measures to overcome challenges facing housing development (%)",
+    "sheet": "Table 9.1",
+    "status": "OK",
+    "rows_parsed": 17,
+    "kind": "national_or_reference",
+    "file": "Chapter-9-Built-Environment-Professionals.xlsx"
+  }
+]

@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **A full cleaning pipeline and county-level analysis built from the KNBS Kenya
-Housing Survey 2024 — 118 report tables across 9 chapters, turned into tidy data
+Housing Survey 2024 - 118 report tables across 9 chapters, turned into tidy data
 and a flagship affordability/quality index.**
 
 #Nelson Wasike 

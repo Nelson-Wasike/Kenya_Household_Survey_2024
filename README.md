@@ -9,6 +9,7 @@ Housing Survey 2024 — 118 report tables across 9 chapters, turned into tidy da
 and a flagship affordability/quality index.**
 
 #Nelson Wasike 
+ 
  'https://www.linkedin.com/in/nelsonmaclain/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHKFrxL4eQBaB9JWyFdh7gw%3D%3D'
  
  'https://github.com/Nelson-Wasike'

@@ -1,16 +1,15 @@
 """
-parser.py — Generic parser for KNBS Kenya Housing Survey 2024 report tables.
-Turns human-formatted report tables (merged cells, multi-row headers,
+parser.py -Parser for KNBS Kenya Housing Survey 2024 report tables.
+Turns report tables (merged cells, multi-row headers,
 embedded Kenya/Rural/Urban summary rows, footnotes) into tidy data.
 """
 import openpyxl
 import sys
-sys.path.insert(0, '/home/claude/khs/src')
+sys.path.insert(0, "D:/Projects/Kenya_Housing_Survey/khs/src")
 from counties import KENYA_COUNTIES, normalize_county
 
 RESIDENCE_LABELS = {"Kenya", "Rural", "Urban", "National"}
 SECTION_MARKERS = {"County", "Counties", "Region"}
-
 
 def read_raw_rows(filepath, sheetname):
     wb = openpyxl.load_workbook(filepath, data_only=True)

@@ -10,15 +10,14 @@ and a flagship affordability/quality index.**
 
 *_Nelson Wasike_*
  
- 'https://www.linkedin.com/in/nelsonmaclain/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHKFrxL4eQBaB9JWyFdh7gw%3D%3D'
+ 'https://www.linkedin.com/in/nelsonwasike-statistician/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHKFrxL4eQBaB9JWyFdh7gw%3D%3D'
  
  'https://github.com/Nelson-Wasike'
 
 ## The question
 
 Do Kenya's counties show a trade-off between owning a home and living in a
-well-serviced one? This project builds a reusable pipeline that converts KNBS's
-human-formatted report tables (merged cells, multi-row headers, embedded
+well-serviced one? This project builds a reusable pipeline that converts KNBS's formatted report tables (merged cells, multi-row headers, embedded
 national/rural/urban summary rows) into clean, analysis-ready data, then answers
 that question at the county level.
 
